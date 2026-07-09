@@ -1,0 +1,6 @@
+{
+  "name": "ADMIN-LOUNGE",
+  "description": "A premium club, lounge, and restaurant experience driving the premium nightlife wave at Ring Road, Ibadan, Oyo State, Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
